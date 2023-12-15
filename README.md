@@ -1,6 +1,3 @@
-Certainly! Here's a formatted version with your name "mitjach" and age "16" included, and I've also organized and improved the structure:
-
-```markdown
 # mitjach
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NilsJanosch&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="GitHub Stats">
