@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Mitja, a 16-year-old Computer Scientist and Software Developer from Switzerland 🇨🇭. Welcome to my GitHub!
+I'm Mitja, a 16-year-old Software Developer from Switzerland 🇨🇭. Welcome to my GitHub!
 
 ## About Me
 
