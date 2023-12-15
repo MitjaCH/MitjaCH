@@ -1,9 +1,51 @@
-# mitjach
+# Hey there! 👋
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NilsJanosch&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="GitHub Stats">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NilsJanosch&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="Top Languages">
+I'm Mitja, a 16-year-old Computer Scientist and Software Developer from Switzerland 🇨🇭. Welcome to my GitHub!
 
 ## About Me
-- **Name**: mitjach
-- **Age**: 16
-- **Occupation**: Computer Scientist
+
+- 🌐 **Location:** Switzerland
+- 💻 **Occupation:** Learning Software Developer
+- 🎓 **Age:** 16
+
+## My Skills
+
+```lua
+print("Lua")
+```
+
+```java
+System.out.println("Java");
+```
+
+```cpp
+#include <iostream>
+int main() {
+    std::cout << "C/C++" << std::endl;
+    return 0;
+}
+```
+
+```python
+print("Python")
+```
+
+```sql
+SELECT * FROM knowledge WHERE language = 'MySQL';
+```
+
+## Current Projects
+
+## Connect with Me
+
+
+## Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitjach&show_icons=true&hide=contribs,prs&theme=radical)
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitjach&layout=compact&theme=radical)
+
+---
+
+Feel free to explore my repositories and let's code something amazing together! 🚀
+```
