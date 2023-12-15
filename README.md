@@ -10,24 +10,10 @@ I'm Mitja, a 16-year-old Software Developer from Switzerland 🇨🇭. Welcome t
 
 ## My Skills
 
-### Lua
-
 ![Lua](https://img.shields.io/badge/Lua-80%25-blue)
-
-### Java
-
 ![Java](https://img.shields.io/badge/Java-70%25-orange)
-
-### C/C++
-
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-75%25-green)
-
-### Python
-
 ![Python](https://img.shields.io/badge/Python-90%25-yellow)
-
-### MySQL
-
 ![MySQL](https://img.shields.io/badge/MySQL-60%25-lightgrey)
 
 
