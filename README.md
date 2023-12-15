@@ -30,5 +30,4 @@ I'm Mitja, a 16-year-old Software Developer from Switzerland 🇨🇭. Welcome t
 
 ---
 
-Feel free to explore my repositories and let's code something amazing together! 🚀
-```
+Feel free to explore my repositories! 🚀
