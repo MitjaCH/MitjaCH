@@ -23,7 +23,7 @@ I'm Mitja, a 16-year-old Software Developer from Switzerland 🇨🇭. Welcome t
 ## Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40mitjach-blue)](https://twitter.com/mitjach)
-[![Discord](https://img.shields.io/badge/Discord-mitjach%239876-orange)](https://discord.gg/yourdiscordtag)
+[![Discord](https://img.shields.io/badge/Discord-mitjach%239876-orange)](https://discord.gg/mitjaa)
 [![Website](https://img.shields.io/badge/Website-mitjach.dev-brightgreen)](https://mitjach.dev)
 
 ## Stats
