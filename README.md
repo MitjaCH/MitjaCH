@@ -19,7 +19,7 @@ I'm Mitja, a 16-year-old Software Developer from Switzerland 🇨🇭. Welcome t
 ## Current Projects
 
 - Currently working on MGUARD (Password Manager written in Python)
-- Flipchat.tv (An Omegle Alternative)
+- React.js Learning Page (React.js & Next.js Website that teaches how to use React.js)
 
 ## Connect with Me
 
