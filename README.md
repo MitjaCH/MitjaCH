@@ -10,10 +10,6 @@
 
 <div align="left">
 
-  <div align="right">
-    <img src="https://media1.tenor.com/m/jysc1QyPQjsAAAAd/cat-dance.gif" alt="Cat dance" />
-  </div>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -80,3 +76,9 @@
   </a>
 </div>
 
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/yNMGjXsoYGUAAAAd/cat-cats.gif" alt="Cat dance" />
+  <img src="https://media1.tenor.com/m/jysc1QyPQjsAAAAd/cat-dance.gif" alt="Cat dance" />
+  <img src="https://media1.tenor.com/m/zN5C2mTeYWoAAAAC/dnce.gif" alt="Cat dance" />
+</div>
