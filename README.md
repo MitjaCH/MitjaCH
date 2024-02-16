@@ -14,7 +14,7 @@ I'm Mitja, a 16-year-old Software Developer from Switzerland 🇨🇭. Welcome t
 ![Java](https://img.shields.io/badge/Java-25%25-orange)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-50%25-green)
 ![Python](https://img.shields.io/badge/Python-85%25-yellow)
-![MySQL](https://img.shields.io/badge/MySQL-80%25-lightgrey)
+![SQL](https://img.shields.io/badge/MySQL-80%25-lightgrey)
 
 ## Current Projects
 
