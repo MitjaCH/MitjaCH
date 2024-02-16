@@ -1,38 +1,53 @@
-# Hey there! 👋
+<h2 align="left">Hi 👋! My name is Mitja and I'm a Software Developer, from Switzerland</h2>
 
-I'm Mitja, a 16-year-old Software Developer from Switzerland 🇨🇭. Welcome to my GitHub!
+###
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MitjaCH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MitjaCH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🌐 **Location:** Switzerland
-- 💻 **Occupation:** Learning Software Developer
-- 🎓 **Age:** 16
+###
 
-## My Skills
+<h3>Skills</h3>
 
-![Lua](https://img.shields.io/badge/Lua-70%25-blue)
-![Java](https://img.shields.io/badge/Java-25%25-orange)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-50%25-green)
-![Python](https://img.shields.io/badge/Python-85%25-yellow)
-![SQL](https://img.shields.io/badge/MySQL-80%25-lightgrey)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+</div>
 
-## Current Projects
+###
 
-- Currently working on MGUARD (Password Manager written in Python)
-- React.js Learning Page (React.js & Next.js Website that teaches how to use React.js)
+<h3>Social</h3>
 
-## Connect with Me
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40mitjach-blue)](https://twitter.com/mitjach)
-[![Discord](https://img.shields.io/badge/Discord-mitjach%239876-orange)](https://discord.gg/mitjaa)
-[![Website](https://img.shields.io/badge/Website-mitjach.dev-brightgreen)](https://mitjach.dev)
+###
 
-## Stats
+<br clear="both">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitjach&show_icons=true&hide=contribs,prs&theme=radical)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitjach&layout=compact&theme=radical)
-
----
-
-Feel free to explore my repositories! 🚀
+###
