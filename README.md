@@ -1,91 +1,79 @@
-# Hey👋 I'm Mitja
+# Hey there! 👋 I'm Mitja
 
-## Stats
-<a href="https://github.com/xk-rl" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitjach&hide=ASP.NET,jupyter%20notebook&count_private=false&theme=gruvbox&hide_border=true" height="220px" style="border: none !important;" />
-  </a>
-  <a href="https://github.com/xk-rl">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitjach&count_private=true&hide=stars&show_icons=true&theme=gruvbox&line_height=27&hide_border=true" alt="xk-rl's github stats" height="220px" style="border: none !important;" />
-  </a>
+## About Me
+I'm a passionate developer with a love for coding and a knack for problem-solving. Currently exploring various technologies and frameworks to expand my skill set.
 
-## Trophies
+## 📊 Stats
+<div align="center">
+  <a href="https://github.com/mitjach">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitjach&hide=ASP.NET,jupyter%20notebook&count_private=false&theme=gruvbox&hide_border=true" height="220px" style="border: none !important;" />
+  </a>
+  <a href="https://github.com/mitjach">
+    <img src="https://github-readme-stats.vercel.app/api?username=mitjach&count_private=true&hide=stars&show_icons=true&theme=gruvbox&line_height=27&hide_border=true" alt="Mitja's github stats" height="220px" style="border: none !important;" />
+  </a>
+</div>
+
+## 🏆 Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mitjach&theme=gruvbox&rank=-C,-?&margin-w=10&no-frame=true" alt="Trophies" />
   </a>
 </div>
 
-<h3>Skills</h3>
-
+## 💻 Skills & Tools
+### Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
 </div>
 
-<h3>Frameworks</h3>
-
+### Frameworks
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular logo" />
-  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
 </div>
 
-<h3>Operating Systems</h3>
-
+### Operating Systems
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows logo" /> 7/8/10/11
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows" /> 7/8/10/11
   <img width="12" />
-  <br>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
+  <br />
+  <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="Ubuntu logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="Debian logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="Debian logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="30" alt="Arch Linux logo" />
 </div>
 
-<h3>Social</h3>
-
+## 🌐 Connect with Me
 <div align="left">
   <a href="/">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube" />
   </a>
-  <a href="https://instagram.com/mitja.ch">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://twitch.tv/mitjach">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-  </a>
-  <a href="https://discord.gg/qDVBjSp7p2">
+    <a href="https://discord.gg/qDVBjSp7p2">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="mailto:mitja.kurath@mitja.site">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://linkedin.com/mitjakurath">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <a href="https://twitch.tv/mitjach">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
   </a>
 </div>
 
 <div align="center">
+  <br />
   <img src="https://media1.tenor.com/m/yNMGjXsoYGUAAAAd/cat-cats.gif" alt="Cat dance" />
   <img src="https://media1.tenor.com/m/jysc1QyPQjsAAAAd/cat-dance.gif" alt="Cat dance" />
   <img src="https://media1.tenor.com/m/zN5C2mTeYWoAAAAC/dnce.gif" alt="Cat dance" />
