@@ -1,8 +1,5 @@
 # Hey there! 👋 I'm Mitja
 
-## About Me
-I'm a passionate developer with a love for coding and a knack for problem-solving. Currently exploring various technologies and frameworks to expand my skill set.
-
 ## 📊 Stats
 <div align="center">
   <a href="https://github.com/mitjach">
