@@ -11,11 +11,7 @@
 </div>
 
 ## 🏆 Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mitjach&theme=gruvbox&rank=-C,-?&margin-w=10&no-frame=true" alt="Trophies" />
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MitjaCH&theme=gruvbox&rank=-?&margin-w=10&no-frame=true)](https://github.com/xk-rl)
 
 ## 💻 Skills & Tools
 ### Languages
