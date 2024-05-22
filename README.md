@@ -10,6 +10,7 @@
   </a>
 </div>
 
+
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MitjaCH&theme=gruvbox&rank=-?&margin-w=10&no-frame=true)](https://github.com/xk-rl)
 
@@ -65,9 +66,6 @@
   </a>
 </div>
 
-<div align="center">
-  <br />
-  <img src="https://media1.tenor.com/m/yNMGjXsoYGUAAAAd/cat-cats.gif" alt="Cat dance" />
-  <img src="https://media1.tenor.com/m/jysc1QyPQjsAAAAd/cat-dance.gif" alt="Cat dance" />
-  <img src="https://media1.tenor.com/m/zN5C2mTeYWoAAAAC/dnce.gif" alt="Cat dance" />
-</div>
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
