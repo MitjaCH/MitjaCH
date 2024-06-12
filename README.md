@@ -12,7 +12,7 @@
 
 
 ## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=MitjaCH&theme=gruvbox&rank=-?&margin-w=10&no-frame=true)](https://github.com/xk-rl)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MitjaCH&theme=gruvbox&rank=-?&margin-w=10&no-frame=true)](https://github.com/MitjaCH)
 
 ## 💻 Skills & Tools
 ### Languages
