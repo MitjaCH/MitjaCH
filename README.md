@@ -25,4 +25,8 @@ Here are some of the cool projects I've been working on:
 
 ---
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MitjaCH&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
+
 Thanks for stopping by! 😊
