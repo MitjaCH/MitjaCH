@@ -14,6 +14,7 @@ Welcome to my GitHub profile. Here's a bit about me and what I do.
 Here are some of the cool projects I've been working on:
 
 - [CSV2JSON](https://github.com/MitjaCH/csv-to-json) - A C Application that converts a .csv file to a JSON file.
+- [ESSENCE](https://github.com/MitjaCH/essence) - Currently closed source.
 
 ## Stats
 
