@@ -18,11 +18,11 @@ Here are some of the cool projects I've been working on:
 
 ## Stats
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=MitjaCH&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=midnight-purple)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=MitjaCH&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=github_dark)
 
-![My Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=MitjaCH&theme=midnight-purple)
+![My Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=MitjaCH&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MitjaCH&layout=compact&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MitjaCH&layout=compact&theme=github_dark)
 
 ---
 
