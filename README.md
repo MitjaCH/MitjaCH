@@ -26,8 +26,6 @@ Here are some of the cool projects I've been working on:
 
 ---
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MitjaCH&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=MitjaCH&label=&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 Thanks for stopping by! 😊
