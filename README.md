@@ -11,6 +11,11 @@ Welcome to my GitHub profile. Here's a bit about me and what I do.
 
 ## Projects
 
+Currently working on:
+
+- [Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) [Contributor]
+- [mku.wtf](https://github.com/MitjaCH/mku.wtf)
+
 Here are some of the cool projects I've been working on:
 
 - [CSV2JSON](https://github.com/MitjaCH/csv-to-json) - A C Application that converts a .csv file to a JSON file.
